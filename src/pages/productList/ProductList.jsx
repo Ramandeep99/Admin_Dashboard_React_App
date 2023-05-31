@@ -39,6 +39,16 @@ export default function ProductList() {
       headerName: "Price",
       width: 160,
     },
+    
+    { field: "date", headerName: "Added Date", width: 200,
+      renderCell: (params) => {
+        return (
+          <div className="date">
+            {params.row.date}
+          </div>
+        );
+      },
+    },
     {
       field: "action",
       headerName: "Action",

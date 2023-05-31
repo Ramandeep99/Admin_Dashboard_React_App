@@ -72,16 +72,18 @@ export const userRows = [
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     email: "jon@gmail.com",
     status: "active",
-    transaction: "$120.00",
+    transaction: "$100.00",
+    date : '10-01-2022'
   },
   {
     id: 2,
     username: "Jon Snow",
     avatar:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    email: "jon@gmail.com",
+    email: "wick@gmail.com",
     status: "active",
-    transaction: "$120.00",
+    transaction: "$89.00",
+    date : '10-02-2022'
   },
   {
     id: 3,
@@ -91,15 +93,17 @@ export const userRows = [
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
+    date : '10-03-2022'
   },
   {
     id: 4,
     username: "Jon Snow",
     avatar:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    email: "jon@gmail.com",
+    email: "harry@gmail.com",
     status: "active",
     transaction: "$120.00",
+    date : '10-03-2022'
   },
   {
     id: 5,
@@ -108,16 +112,18 @@ export const userRows = [
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     email: "jon@gmail.com",
     status: "active",
-    transaction: "$120.00",
+    transaction: "$12.00",
+    date : '10-04-2022'
   },
   {
     id: 6,
     username: "Jon Snow",
     avatar:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    email: "jon@gmail.com",
+    email: "tom@gmail.com",
     status: "active",
-    transaction: "$120.00",
+    transaction: "$20.00",
+    date : '10-05-2022'
   },
   {
     id: 7,
@@ -127,6 +133,7 @@ export const userRows = [
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
+    date : '10-07-2022'
   },
   {
     id: 8,
@@ -136,15 +143,17 @@ export const userRows = [
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
+    date : '10-09-2022'
   },
   {
     id: 9,
     username: "Jon Snow",
     avatar:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    email: "jon@gmail.com",
+    email: "arti@gmail.com",
     status: "active",
     transaction: "$120.00",
+    date : '10-10-2022'
   },
   {
     id: 10,
@@ -154,6 +163,7 @@ export const userRows = [
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
+    date : '10-12-2022'
   },
 ];
 
@@ -166,6 +176,7 @@ export const productRows = [
     stock: 123,
     status: "active",
     price: "$120.00",
+    date : '01-01-2022'
   },
   {
     id: 2,
@@ -175,6 +186,7 @@ export const productRows = [
     stock: 123,
     status: "active",
     price: "$120.00",
+    date : '02-01-2022'
   },
   {
     id: 3,
@@ -184,6 +196,7 @@ export const productRows = [
     stock: 123,
     status: "active",
     price: "$120.00",
+    date : '03-01-2022'
   },
   {
     id: 4,
@@ -193,6 +206,7 @@ export const productRows = [
     stock: 123,
     status: "active",
     price: "$120.00",
+    date : '04-01-2022'
   },
   {
     id: 5,
@@ -202,6 +216,7 @@ export const productRows = [
     stock: 123,
     status: "active",
     price: "$120.00",
+    date : '05-01-2022'
   },
   {
     id: 6,
@@ -211,6 +226,7 @@ export const productRows = [
     stock: 123,
     status: "active",
     price: "$120.00",
+    date : '06-01-2022'
   },
   {
     id: 7,
@@ -220,6 +236,7 @@ export const productRows = [
     stock: 123,
     status: "active",
     price: "$120.00",
+    date : '07-01-2022'
   },
   {
     id: 8,
@@ -229,6 +246,7 @@ export const productRows = [
     stock: 123,
     status: "active",
     price: "$120.00",
+    date : '08-01-2022'
   },
   {
     id: 9,
@@ -238,6 +256,7 @@ export const productRows = [
     stock: 123,
     status: "active",
     price: "$120.00",
+    date : '09-01-2022'
   },
   {
     id: 10,
@@ -247,5 +266,6 @@ export const productRows = [
     stock: 123,
     status: "active",
     price: "$120.00",
+    date : '10-01-2022'
   },
 ];
